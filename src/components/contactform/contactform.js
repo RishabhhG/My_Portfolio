@@ -76,7 +76,7 @@ export default function Contactform(props) {
                       style={{ backgroundColor: theme.accentColor[1] }}></div>
                   </div>
                   <div className="contact-app-contact" style={{ color: theme.secondaryText }}>
-                    CONTACT INFO : +91 9871348643{' '}
+                    CONTACT INFO : +91 8851925784{' '}
                   </div>
                 </div>
                 <div className="contact-screen-body-item">
